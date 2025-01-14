@@ -20,7 +20,7 @@ function Members() {
       description: "William Parkinson is experienced in remote sensing and machine learning and has a Master of Science in Geography. William focuses on developing technically advanced products that exploit big data and remote sensing for agriculture, forestry, and water management applications. William works closely with stakeholders, including end-users and domain experts in industry, government, and academia, to build tools and services which address the information needs of the next generation of remote sensing users."
     },
     {
-      name: 'derek jacoby',
+      name: 'Derek Jacoby',
       title: 'collaborator',
       organization: 'Pacific Coastal Computing Association',
       photo: 'derekja.jpg',
@@ -55,8 +55,8 @@ function Members() {
       description: "I am a Canada Research Chair in Persuasive Technology and a Full Professor at the Faculty of Computer Science, Dalhousie University where I direct the Persuasive Computing Lab. My research areas include Human-Computer Interaction, Persuasive Technology, Games for Change, and Digital Health. My research group is particularly interested in investigating user-centered approaches to designing interactive systems to motivate people for actions and causes that are beneficial for them and their communities as well as how interactive systems can be designed for the under-served population (HCI for Development (HCI4D)). We apply our research to tackle real-life problems in various domains including to improve a wide range of health and wellness behaviours such as sexual and other health risk behaviours, healthy eating, physical activity, mental health, and smoking cessation. I am part of the Human-Computer Interaction (HCI), Visualization and Graphics. My work is funded by NSERC Discovery Grant. Previously, I was a Banting postdoctoral fellow at the University of Waterloo. I graduated with a Ph.D. in Computer Science from the University of Saskatchewan as a Vanier Scholar."
     },
     {
-      name: 'jonnie bedall',
-      title: 'co-director',
+      name: 'Jonnie Bedall',
+      title: 'collaborator',
       organization: 'Centaur',
       photo: 'jonnie.jpg',
       description: "Maj Jonnie Beddall is a British military intelligence Officer with 12 years' experience tackling the defining security policy challenges. Serving with Defence Intelligence, he worked extensively in the multi-national context, deploying four times with the United Nations, NATO, and on Counter Terror operations, and directing multiple overseas operations for two years. Working with Canada in Iraq and Latvia, he has deep practitioner experience of allied and Canadian security demands. Establishing an extensive academic network at the heart of British and international security reform, he looks to leverage the network to address security policy challenges, as learnt from his lived experience. He is a Master of Public Policy graduate from Oxford's School of Government, Sword of Honour winner from the Royal Military Academy Sandhurst, and with First Class honours from the University of Exeter."
@@ -95,6 +95,13 @@ function Members() {
       organization: 'Xona Partners',
       photo: 'frank.png',
       description: "Frank brings over 25 years of experience in the telecommunication infrastructure market having started his career building the first wireless networks in North and South America and Europe. He is a founding partner of Xona Partners. Prior to Xona, Frank co-founded BLiNQ Networks, a Nortel spin-out that developed intelligent backhaul systems for small cells. Frank held senior product management positions and global P&L responsibilities at Redline Communications, Metawave Communications and Ericsson. Prior to working with vendors he was on the very first engineering team responsible for designing and launching Clearnet's iDEN and CDMA networks (later acquired by Telus). He also participated in the buildout and optimization of mobile networks for Nextel (US, Argentina) and Cellnet (UK)."
+    },
+    {
+      name: 'Harvey Hawes',
+      title: 'collaborator',
+      organization: 'LHS Labs',
+      photo: 'harvey.jpg',
+      description: "Dr. Harvey Hawes brings 20 years of experience as a trauma surgeon, innovator, and health systems development in diverse regions, including Canada's north, Fiji, and East Africa. He is currently serving as Provincial Trauma Medical Director for British Columbia. As former Director of ICChange, Harvey led initiatives to secure funding and support for system improvements, notably from Grand Challenges Canada. He played a pivotal role in developing Kenya's National Trauma and Injury Framework and Injury Policy."
     }
   ];
 
