@@ -29,14 +29,14 @@ function Members() {
     {
       name: 'nico preston',
       title: 'collaborator',
-      organization: 'Centaur',
+      organization: 'RCCbc',
       photo: 'nico.png',
       description: "Data scientist and paramedic with expertise in health, technology, and innovation. Nico is passionate about leveraging emerging technologies to inform situation awareness in complex emergencies. Brings expertise in data science, data-driven web applications, emergency management, software engineering, and technical project management."
     },
     {
       name: 'david obert',
       title: 'collaborator',
-      organization: 'Centaur',
+      organization: 'UBC',
       photo: 'david.png',
       description: "Physician and senior healthcare leader with a keen interest and expertise in realizing system-level solutions to complex challenges. Trained in emergency and prehospital medicine with an additional specialization in public policy, David combines an ED-honed approach to innovative problem-solving with the ability to effectively implement change in large organizations."
     },
@@ -57,7 +57,7 @@ function Members() {
     {
       name: 'Jonnie Bedall',
       title: 'collaborator',
-      organization: 'Centaur',
+      organization: '',
       photo: 'jonnie.jpg',
       description: "Maj Jonnie Beddall is a British military intelligence Officer with 12 years' experience tackling the defining security policy challenges. Serving with Defence Intelligence, he worked extensively in the multi-national context, deploying four times with the United Nations, NATO, and on Counter Terror operations, and directing multiple overseas operations for two years. Working with Canada in Iraq and Latvia, he has deep practitioner experience of allied and Canadian security demands. Establishing an extensive academic network at the heart of British and international security reform, he looks to leverage the network to address security policy challenges, as learnt from his lived experience. He is a Master of Public Policy graduate from Oxford's School of Government, Sword of Honour winner from the Royal Military Academy Sandhurst, and with First Class honours from the University of Exeter."
     },
