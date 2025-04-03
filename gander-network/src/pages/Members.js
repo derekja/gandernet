@@ -7,7 +7,7 @@ function Members() {
   const members = [
     {
       name: 'Yvonne Coady',
-      title: 'co-director',
+      title: 'Director',
       organization: 'University of Victoria',
       photo: 'yvonne.jpg',
       description: "Dr. Yvonne Coady is a full professor at the University of Victoria who is focused on performant cloud computing systems. She holds an NSERC discovery award in petabyte scale computing that leverages data from the ongoing acquisition of satellite imagery. Yvonne has a lifelong dedication to teaching and students, and finds ways to integrate high performance computing to bolster these interests. In the spring of 2024, Yvonne was successful in getting her course on Culturally Aware AI accredited by CIFAL/UNITAR, an arm of the United Nations focused on education and sustainable development goals."
